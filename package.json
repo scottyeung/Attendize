@@ -4,15 +4,15 @@
   "description": "Attendize Ticketing Platform",
   "main": "public/index.php",
   "dependencies": {
-    "less": "^3.9.0"
+    "less": "^3.10.3"
   },
   "devDependencies": {
     "bower": "^1.8.8",
-    "grunt": "^1.0.3",
+    "grunt": "^1.0.4",
     "grunt-cli": "^1.3.2",
     "grunt-contrib-concat": "^1.0.1",
     "grunt-contrib-less": "^2.0.0",
-    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-uglify": "^4.0.1",
     "grunt-contrib-watch": "^1.1.0",
     "laravel-elixir": "6.0.0-18"
   },
@@ -23,6 +23,20 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/attendize/attendize.git"
+  },
+  "resolutions": {
+    "js-yaml": "3.13.1",
+    "braces": "3.0.2",
+    "tar": "5.0.5",
+    "marked": "0.7.0",
+    "mixin-deep": "2.0.1",
+    "lodash": "4.17.15",
+    "lodash.merge": "4.6.2",
+    "lodash.mergewith": "4.6.2",
+    "fstream": "1.0.12",
+    "set-value": "3.0.1",
+    "hoek": "5.0.3",
+    "clean-css": "4.1.11"
   },
   "author": "Dave Earley",
   "license": "ISC"
