@@ -8,7 +8,7 @@ Your order for the event <strong>{{$order->event->title}}</strong> was successfu
 
 Your tickets are attached to this email. You can also view you order details and download your tickets
 at: {{route('showOrderDetails', ['order_reference' => $order->order_reference])}}
-<br>For any inquiries, please reply directly to this mail or info@inverted-audio.com.<br>Thank you, Inverted Audio
+<br><br>For any inquiries, please reply directly to this mail or info@inverted-audio.com.<br>Thank you, Inverted Audio
 
 @if(!$order->is_payment_received)
 <br><br>
