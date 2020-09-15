@@ -171,6 +171,7 @@ return [
         Mews\Purifier\PurifierServiceProvider::class,
         Milon\Barcode\BarcodeServiceProvider::class,
         Vinelab\Http\HttpServiceProvider::class,
+        Sichikawa\LaravelSendgridDriver\SendgridTransportServiceProvider::class
     ],
 
     /*
