@@ -41,7 +41,8 @@
         "predis/predis": "~1.1",
         "vinelab/http": "~1.5",
         "ksubileau/color-thief-php": "^1.4",
-        "dacastro4/laravel-gmail": "2.0.4"
+        "dacastro4/laravel-gmail": "2.0.4",
+        "s-ichikawa/laravel-sendgrid-driver": "2.0"
     },
     "require-dev": {
         "phpunit/phpunit": "7.3.*",
