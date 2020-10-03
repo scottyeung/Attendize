@@ -25,6 +25,7 @@
 <section id="intro" class="container">
     <div class="row">
         <div class="col-md-12 event-header">
+            <a href="https://inverted-audio.com" class="logo"><h3>INVERTED AUDIO</h3></a>
             <h1 property="name">{{$event->title}}</h1>
             <div class="event_venue">
                 <span property="startDate" content="{{ $event->start_date->toIso8601String() }}">
