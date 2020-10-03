@@ -11434,7 +11434,7 @@ footer,
   .section_head {
     padding-top: 30px;
     font-size: 30px;
-    color: wht;
+    padding-left: 5px !important;
   }
 
   .main_content {
