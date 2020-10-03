@@ -7,7 +7,7 @@
     <div class="row">
         <p class='ia-text-logo mobile'>Inverted Audio</p>
         <p class='ia-text-logo desktop'>Inverted Audio</p>
-        <h1 class='section_head' style="text-align: left; padding-left: 5px;">
+        <h1 class='section_head' style="text-align: left; padding-left: 10px;">
             @lang("Public_ViewEvent.embed_header")
         </h1>
     </div>
