@@ -11663,7 +11663,7 @@ footer,
   }
 
   .event-header>.logo {
-    display: block;
+    display: block !important;
   }
 }
 
@@ -11742,4 +11742,5 @@ p.ia-text-logo.mobile {
 
 .event-header>.logo {
   display: none;
+  color: white;
 }
